@@ -3,9 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HELEN DE PORRES/AndroidStudioProjects/PlaneteAppGreta60/app/src/main/res/layout/activity_creer_planete.xml" value="0.17" />
         <entry key="..\:/Users/HELEN DE PORRES/AndroidStudioProjects/PlaneteAppGreta60/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/HELEN DE PORRES/AndroidStudioProjects/PlaneteAppGreta60/app/src/main/res/layout/activity_recycler_view.xml" value="0.1272644927536232" />
         <entry key="..\:/Users/HELEN DE PORRES/AndroidStudioProjects/PlaneteAppGreta60/app/src/main/res/layout/item.xml" value="0.25" />
         <entry key="..\:/Users/HELEN DE PORRES/AndroidStudioProjects/PlaneteAppGreta60/app/src/main/res/layout/item1.xml" value="0.25" />
+        <entry key="..\:/Users/HELEN DE PORRES/AndroidStudioProjects/PlaneteAppGreta60/app/src/main/res/layout/recycler_item.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/HELEN DE PORRES/AndroidStudioProjects/PlaneteAppGreta60/app/src/main/res/menu/context_menu.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/HELEN DE PORRES/AndroidStudioProjects/PlaneteAppGreta60/app/src/main/res/menu/main_menu.xml" value="0.225" />
+        <entry key="..\:/Users/HELEN DE PORRES/AndroidStudioProjects/PlaneteAppGreta60/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24114583333333334" />
       </map>
     </option>
   </component>

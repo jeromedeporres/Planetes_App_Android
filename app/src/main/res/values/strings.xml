@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PlaneteAppGreta60</string>
+    <string name="menu_creer">Créer Planète</string>
+    <string name="menu_modifier">Modifier Planète</string>
+    <string name="menu_supprimer">Supprimer Planète</string>
 </resources>

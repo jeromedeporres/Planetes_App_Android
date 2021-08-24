@@ -15,10 +15,12 @@ public class RecyclerPlaneteView extends RecyclerView.ViewHolder{
     private TextView tvDistance;
     private ImageView ivImage;
 
+    //création d'un objet de type viewholder et initialisation des variables d'instances
     public RecyclerPlaneteView(View view){
         super(view);
         findViews(view);
     }
+    //initialisation des variables d'instances
     private void findViews(View view)
     {
         tvNom = view.findViewById(R.id.nomPlanete);
